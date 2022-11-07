@@ -1,0 +1,10 @@
+D:\ITI3Months\VisualC#\Labs\VisualCS\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\ITI3Months\VisualC#\Labs\VisualCS\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI3Months\VisualC#\Labs\VisualCS\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\ITI3Months\VisualC#\Labs\VisualCS\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

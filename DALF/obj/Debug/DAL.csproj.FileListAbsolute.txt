@@ -1,0 +1,6 @@
+D:\ITI3Months\VisualC#\Labs\VisualCS\DALF\bin\Debug\DALF.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\DALF\bin\Debug\DALF.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\DALF\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\DALF\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\DALF\obj\Debug\DALF.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\DALF\obj\Debug\DALF.pdb

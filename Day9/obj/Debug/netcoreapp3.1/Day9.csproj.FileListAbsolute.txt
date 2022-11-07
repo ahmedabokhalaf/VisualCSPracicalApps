@@ -1,0 +1,14 @@
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\bin\Debug\netcoreapp3.1\Day9.exe
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\bin\Debug\netcoreapp3.1\Day9.deps.json
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\bin\Debug\netcoreapp3.1\Day9.runtimeconfig.json
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\bin\Debug\netcoreapp3.1\Day9.runtimeconfig.dev.json
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\bin\Debug\netcoreapp3.1\Day9.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\bin\Debug\netcoreapp3.1\Day9.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\obj\Debug\netcoreapp3.1\Day9.csproj.AssemblyReference.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\obj\Debug\netcoreapp3.1\Day9.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\obj\Debug\netcoreapp3.1\Day9.AssemblyInfoInputs.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\obj\Debug\netcoreapp3.1\Day9.AssemblyInfo.cs
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\obj\Debug\netcoreapp3.1\Day9.csproj.CoreCompileInputs.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\obj\Debug\netcoreapp3.1\Day9.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\obj\Debug\netcoreapp3.1\Day9.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day9\obj\Debug\netcoreapp3.1\Day9.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

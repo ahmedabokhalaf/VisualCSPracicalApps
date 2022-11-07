@@ -1,0 +1,4 @@
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day88\obj\Debug\Day88.csproj.AssemblyReference.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day88\obj\Debug\Day88.Form1.resources
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day88\obj\Debug\Day88.csproj.GenerateResource.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day88\obj\Debug\Day88.csproj.CoreCompileInputs.cache

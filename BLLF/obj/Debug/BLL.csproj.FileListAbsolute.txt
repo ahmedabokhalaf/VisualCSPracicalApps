@@ -1,0 +1,9 @@
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLLF\bin\Debug\BLLF.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLLF\bin\Debug\BLLF.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLLF\bin\Debug\DALF.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLLF\bin\Debug\DALF.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLLF\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLLF\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLLF\obj\Debug\BLL.csproj.CopyComplete
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLLF\obj\Debug\BLLF.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\BLLF\obj\Debug\BLLF.pdb

@@ -1,0 +1,15 @@
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\Day8.exe.config
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\Day8.exe
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\Day8.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\BLLF.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\DALF.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\BLLF.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\DALF.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.csproj.AssemblyReference.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.Form1.resources
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.Properties.Resources.resources
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.csproj.GenerateResource.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.csproj.CoreCompileInputs.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.csproj.CopyComplete
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.exe
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.pdb

@@ -1,0 +1,15 @@
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day2.csproj.AssemblyReference.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.Form1.resources
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.Properties.Resources.resources
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day2.csproj.GenerateResource.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.exe
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day8.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\Day8.exe.config
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\Day8.exe
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\Day8.pdb
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\EntityFramework.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\EntityFramework.xml
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI3Months\VisualC#\Labs\VisualCS\Day8\obj\Debug\Day2.csproj.CopyComplete
